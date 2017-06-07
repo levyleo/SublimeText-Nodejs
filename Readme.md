@@ -45,15 +45,15 @@ You can install this package from [Sublime Text 3 package manager](https://packa
 
 *MacOSX*
 
-    `git clone https://github.com/tanepiper/SublimeText-Nodejs.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Nodejs`
+    `git clone https://github.com/levyleo/SublimeText-Nodejs.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Nodejs`
 
 *Windows*
 
-    `git clone https://github.com/tanepiper/SublimeText-Nodejs "%APPDATA%\Sublime Text 3\Packages\Nodejs"`
+    `git clone https://github.com/levyleo/SublimeText-Nodejs "%APPDATA%\Sublime Text 3\Packages\Nodejs"`
 
 *Linux*
 
-    `git clone https://github.com/tanepiper/SublimeText-Nodejs $HOME/.config/sublime-text-3/Packages/Nodejs`
+    `git clone https://github.com/levyleo/SublimeText-Nodejs $HOME/.config/sublime-text-3/Packages/Nodejs`
 
 After the package is installed, install Node.js packages needed for working the package built-in tools. You can to install either globaly by: `npm install -g commander@"~2.9.0" uglify-js@"~2.6.0"` or localy by adding previously mentioned Node.js packages to your current project, either: `npm install commander@"~2.9.0" uglify-js@"~2.6.0"` or manully editing your project `package.json` file.
 
